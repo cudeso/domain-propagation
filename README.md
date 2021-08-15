@@ -1,7 +1,5 @@
 ## Domain Propagation Test
 
-### Domain Propagation Test
-
 This is a test to research how quickly indicators of compromise (IOC) propagate between different blocklists. The approach is
 
 - Register a fresh domain;
